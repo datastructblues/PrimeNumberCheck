@@ -19,7 +19,6 @@ namespace PrimeNumber
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = textBox1.Text;
             int number;
             if (int.TryParse(textBox1.Text, out number))
             {
