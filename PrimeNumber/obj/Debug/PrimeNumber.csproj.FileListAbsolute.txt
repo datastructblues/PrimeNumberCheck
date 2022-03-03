@@ -1,0 +1,10 @@
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.Form1.resources
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\LAPTOP\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
