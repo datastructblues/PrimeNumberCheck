@@ -2,6 +2,6 @@
 
 Basic prime number checking program that first project of my visual programming lecture. 
 
- IDE Visual Studio
+> IDE Visual Studio
 
-Features Windows Forms
+> Features Windows Forms
